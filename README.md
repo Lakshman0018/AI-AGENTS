@@ -7,7 +7,6 @@ This repository contains a collection of machine learning and deep learning proj
 📂 Projects Included
 ---
 1. **Health Care Prediction System**
-   
 A machine learning model designed to predict potential health risks based on patient data. The model uses classification algorithms to detect early signs of diseases and assist in preventative healthcare.
 
 3. **IMDB Sentiment Analysis**
