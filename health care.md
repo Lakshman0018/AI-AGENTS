@@ -22,9 +22,6 @@ The notebook includes the following stages:
 The complete code used in this project is shown below:
 
 ```python
-
-```
-```python
 %pip install pandas scikit-learn torch gradio
 ```
 ```python
