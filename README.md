@@ -6,13 +6,13 @@ This repository contains a collection of machine learning and deep learning proj
 
 📂 Projects Included
 ---
-1. **Health Care Prediction System**
+1. **Health Care Prediction System :**
 A machine learning model designed to predict potential health risks based on patient data. The model uses classification algorithms to detect early signs of diseases and assist in preventative healthcare.
 
-3. **IMDB Sentiment Analysis**
+3. **IMDB Sentiment Analysis :**
 A natural language processing (NLP) project that performs sentiment analysis on movie reviews using deep learning techniques such as RNNs and LSTMs.
 
-4. **Cat vs Dog Classifier**
+5. **Cat vs Dog Classifier :**
 A computer vision project that classifies images into cats or dogs using Convolutional Neural Networks (CNNs). It includes image preprocessing, augmentation, and training a custom CNN model.
 
 🚀 Technologies Used
